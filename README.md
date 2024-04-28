@@ -1,1 +1,3 @@
-http://localhost:8888/notebooks/Desktop/Business-Analyst-Projects/Business-Analyst-Projects/Python%20Data%20Analysis%20Projects/Google%20Trends%20API%20-%20Travel%20Management.ipynb#:~:text=Travel%20Mangement%20Key,offer%20solutions%C2%B6
+# Travel Mangement Key Word soearch on google Trends using Google Trends API
+
+# It enables marketers target specific region that have the highets keyword search fro travel manegment and offer solutions
